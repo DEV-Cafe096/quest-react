@@ -1,0 +1,21 @@
+/* colorUpper.css */
+
+.color-uppercase {
+    /* Uma classe para o container */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.color-uppercase p {
+    font-weight: 500;
+    padding: 0;
+    margin: 10px;
+
+}
+
+.color-uppercase h1 {
+    color: #613D30;
+    cursor: pointer;
+}
